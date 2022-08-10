@@ -12,6 +12,11 @@ const parishioners = [
         firstName : "Jane",
         lastName: "Doe",
         "Age": 12
+    },
+    {
+        firstName : "Lana",
+        lastName: "Lang",
+        "Age": 22
     }
 ]
 
